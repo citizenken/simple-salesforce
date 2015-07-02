@@ -14,7 +14,7 @@ if sys.version_info < (3, 0):
     extra_tests_require.append('mock==1.0.1')
 
 setup(
-    name='simple-salesforce',
+    name='ken-simple-salesforce',
     version='0.67.2',
     author='Nick Catalano',
     packages=['simple_salesforce',],
